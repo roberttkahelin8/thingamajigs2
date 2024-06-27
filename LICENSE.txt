@@ -1,6 +1,7 @@
 All rights reserved unless otherwise explicitly stated.
 
 You may use snippets or entire parts of ".java" files, as long as you give credit back to this mod.
+Disclaimer: Some parts of ".java" files contain parts/snippets of MC code, modified to be different and or function different to their original forms.
 
 You may not use any of the following files with these extension under free use without permission:
 --> .jpg, .jpeg, .png, .gif, .json, .bonin, .pgsave, .gson, .txt, .md, .psd, .pxd, .img, .raw, .obj
