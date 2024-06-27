@@ -20,19 +20,26 @@ The *official name* of this mod is **Thingamajigs 2**.
 ## Not So FAQ:
 
 Q1: Are we cancelling Thingamajigs 1?
+
 A: NEVER! That mod is *far* too popular (well, it is to my eyes). The mod will continue to be updated till we can't physically update it anymore (health and life, etc., and such).
 
 Q2: Is X feature coming back/being added?
+
 A: Perhaps, if it is on the planned addons list or is an approved, brand new feature.
 
 Q3: Who is 'we'?
+
 A: Whoever works on this mod and whoever contributes code/artwork/ideas to the mod. There are a few people who have given good ideas, and they have been thanked very much.
 
 Q4: Can I help out?
+
 A: Sure! If you want to suggest an idea, open a new suggestion in the 'Issues' tab. If you want to suggest a code improvement, open a "Pull Request" (with your changed code), especially if a mod has some issue (compat-wise) with this mod.
 
 Q5: Where can I support your development efforts?
+
 A: There is a donate link in this README at the top. The values for donating are quite low, along with a custom option to allow you to specify whatever you want or what you think this mod deserves.
+
+
 
 
 
