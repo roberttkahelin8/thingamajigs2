@@ -17,7 +17,8 @@ Thingamajigs Railroadways (custom rails and infiminecart return!)
 
 The *official name* of this mod is **Thingamajigs 2**.
 
-Not So FAQ:
+## Not So FAQ:
+
 Q1: Are we cancelling Thingamajigs 1?
 A: NEVER! That mod is *far* too popular (well, it is to my eyes). The mod will continue to be updated till we can't physically update it anymore (health and life, etc., and such).
 
