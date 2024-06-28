@@ -10,10 +10,19 @@ If your unsure how you can use the code, just ask about it.
 
 What happened to the features?
 A lot of old features were redone again, and some, have completely been removed. They may come back later if plausible. Others are coming back in future addons.
+
+
 Planned Addons:
 Thingamajigs Goodies (Converter, Purifying items and Other Misc. Magic or otherwise things)
+
 Thingamajigs Road Stuffs (asphalt blocks, paint, and custom signs!) (not the final name as other mods already have this name minus Thingamajigs)
+
 Thingamajigs Railroadways (custom rails and infiminecart return!)
+
+
+Updated/Changed Feature Backstory:
+Note that mostly *custom* features broke in 1.21+, resulting in this drastic change for 1.21+ versions. The DJ Laser Light was almost cancelled because of the changes to a lot of MC's code and the modloader's code.
+
 
 The *official name* of this mod is **Thingamajigs 2**.
 
