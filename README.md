@@ -9,7 +9,7 @@ As long as you give credit back to this mod, you can use code snippets or entire
 If your unsure how you can use the code, just ask about it.
 
 What happened to the features?
-A lot of old features were redone again, and some, have completely been removed. They may come back later if plausible. Others are coming back in future addons.
+A lot of old features were redone again. Others are coming back in future addons.
 
 
 Planned Addons:
@@ -49,8 +49,10 @@ Q5: Where can I support your development efforts?
 A: There is a donate link in this README at the top. The values for donating are quite low, along with a custom option to allow you to specify whatever you want or what you think this mod deserves.
 
 
-
-
+Features not mentioned or are seemingly silently not discussed:
+These features are features which are not coming back. Due to the nature of how tedious it is to update these features, they have been scrapped. It's sad, but true. This includes the following features:
+- Dyed Pumpkin Stems, Carved/Jack O Lanterns, and associated items
+- Other older mod features that never made it past conceptual phase
 
 Currently supported versions (MC and Modloader): NeoForged MC 1.21
 
